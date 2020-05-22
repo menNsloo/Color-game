@@ -3,9 +3,9 @@ It is RGB color guessing game where random RGB color codes are generated and use
 
 Fully-responsive color guessing game application where rgb values are matched to colored tiles. Built with HTML, CSS, JS
 
-### How It Works
+# How It Works
 
--There are three difficulty levels: easy, medium, and hard.
+###There are three difficulty levels: easy, medium, and hard.
  -The easy mode has three colors to choose from
  -The medium mode has six colors to choose from
  -the hard mode has nine colors to choose from
